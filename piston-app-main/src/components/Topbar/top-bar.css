@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@700&display=swap');
+
+.color-style{
+    background: #E3E3E3;
+    color: #9A9A9A;
+    font-family: Oxygen;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+}
+.size-style{
+    width: auto;
+    height: 41px;
+}
+.color-style p{
+    margin: 0;
+    display: inline-block;
+    transform: translateY(50%);
+}

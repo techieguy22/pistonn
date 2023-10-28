@@ -1,0 +1,39 @@
+body{
+    color: black;
+    font-family: Oxygen;
+    margin-left: 20px;
+    font-weight: 900;
+    line-height: 19px;
+    letter-spacing: 0em;
+}
+.navbar-style{
+    background-color: white;
+}
+.navbar-style p{
+    height: 28px;
+    font-size: 28px;
+    padding: 27px;
+    top: 50%;
+}
+.navbar-link-style{
+    width: 535px;
+    height: 39px;
+    top: 22px;
+    left: 453px;
+    padding-left: 0px;
+    padding-right: 0px; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.navbar-icon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 30px;
+}
+.navbar-icon div{
+    margin-right: 10px;
+}
